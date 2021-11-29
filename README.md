@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Koen Ongena. I work @ (https://www.imec.be)[imec]. This github account is used for imec related coding
+- 👋 Hi, I’m Koen Ongena. I work @ https://www.imec.be. This github account is used for imec related coding
 
 <!---
 koen-ongena-imec/koen-ongena-imec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
